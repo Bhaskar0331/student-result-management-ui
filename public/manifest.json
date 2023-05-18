@@ -1,0 +1,15 @@
+{
+  "short_name": "Student Result Management System",
+  "name": "Student Result Management System",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "30x30"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
